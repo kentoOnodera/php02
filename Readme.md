@@ -27,7 +27,7 @@ Laravelを使ってログイン機能の実装
 * Laravel-Generatorを使用
 >https://infyom.com/open-source/laravelgenerator/docs/8.0/introduction
 * Gitがコマンドでいじると相当楽だということ
->https://www.youtube.com/watch?v=1l8oBEown8c
+>https://www.youtube.com/watch?v=vMZ0C06soxA&t=257s
 
 今回の課題で特に勉強になったのはLaravelとはなんなのかということが多少わかったこと。
-Gitをターミナルからpushする方が楽、branchでバージョン管理をするとエラーが出た際に切り戻せる事がわかったので今後活用していく。
+ターミナルからpushする方が楽、branchでバージョン管理をするとエラーが出た際に切り戻せる事がわかったので今後活用していく。
