@@ -5,8 +5,8 @@ Artist ログイン
 Laravelを使ってログイン機能の実装
 
 ## Author
-* 小野寺剣人
-* ジーズアカデミーDev21
+*小野寺剣人
+*ジーズアカデミーDev21
  
 ## Reference
 *Laravel,Docker,
